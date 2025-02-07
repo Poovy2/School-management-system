@@ -1,0 +1,1 @@
+Import the sql file to mysql local host.Import the jar connector and start the my sql local host and run the progtram.This project is developed and upload by KADSE241F-046.This system is about a school management system
